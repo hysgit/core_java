@@ -15,6 +15,7 @@ public class BorderTest
    {
       EventQueue.invokeLater(new Runnable()
          {
+            @Override
             public void run()
             {
                JFrame frame = new BorderFrame();

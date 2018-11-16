@@ -1,4 +1,4 @@
-package circleLayout;
+package com.woslx.bookcode.version9.v1ch09.circleLayout;
 
 import javax.swing.*;
 import java.awt.*;
@@ -13,6 +13,7 @@ public class CircleLayoutTest
    {
       EventQueue.invokeLater(new Runnable()
          {
+            @Override
             public void run()
             {
                JFrame frame = new CircleLayoutFrame();

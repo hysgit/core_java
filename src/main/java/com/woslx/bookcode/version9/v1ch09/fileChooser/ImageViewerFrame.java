@@ -1,4 +1,4 @@
-package fileChooser;
+package com.woslx.bookcode.version9.v1ch09.fileChooser;
 
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
